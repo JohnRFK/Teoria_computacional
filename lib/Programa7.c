@@ -1,0 +1,142 @@
+//Código correspondiente al programa 8
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <ctype.h>
+#include "Programa7.h"
+#include "archivos.h"
+
+#define C_PAR "aut5.txt"
+
+int cad_ebayweb()
+{
+    //variables cad_paridad
+    int desicion1;
+    int qfinal[2] = {3 , 7};     //estados finales
+    char op;
+    char mng[80] = "La cadena %s terminan en web o ebay";
+    char abrir[50];
+    //fin variables
+
+    do
+    {
+        srand(time(NULL));
+        do
+        {
+            printf("Cadenas que contengan \"web\" y \"ebay\" [Automata 5]\nSeleccione una opcion:\n");
+			printf("1.Crear sus propias cadenas\n");
+			printf("2.Abrir un archivo para leerlo\n3.Salir\n$ ");
+			scanf("%d", &desicion1);
+			fflush(stdin);
+			if(desicion1 == 3)
+                return 0;
+        }while(desicion1 < 1 && desicion1 > 3);
+
+        switch(desicion1)
+        {
+            case 1:
+                if(!crearArch(&desicion1, C_PAR, AUT_TEX))
+                    return 0;
+                if(!leerArch(C_PAR, &qfinal[0], mng, AUT_TEX, aut_web))
+                    return 0;
+                break;
+            case 2:
+                printf("Archivos que se encuentran en carpeta: \n");
+                system("dir");
+                printf("\nEscribe la ruta del archivo: ");
+                gets(abrir);
+                if(!leerArch(abrir, &qfinal[0], mng, AUT_TEX, aut_web))
+                    return 0;
+                break;
+        }
+
+        fflush(stdin);
+
+		printf("\n[Paridad]Desea continuar?[s/n]: ");
+		op = getchar();
+    }while(op == 's' || op == 's');
+    return 0;
+
+}
+
+void aut_web(const char *c, int *q, FILE *fa)
+{
+	switch(*c)
+	{
+		case 'w':
+		case 'W':
+			*q = 1;
+			fprintf(fa, "%c : estado %d\n", *c, *q);
+			printf("%c : estado %d\n", *c, *q);
+			break;
+		case 'e':
+		case 'E':
+            switch(*q)
+            {
+                case 0:
+                    *q = 4;
+                    break;
+                case 1:
+                    *q = 2;
+                    break;
+                default:
+                    *q = 3;
+                    break;
+            }
+            fprintf(fa, "%c : estado %d\n", *c, *q);
+			printf("%c : estado %d\n", *c, *q);
+			break;
+		case 'b':
+		case 'B':
+			switch(*q)
+			{
+				case 2:
+					*q = 3;
+					break;
+                case 4:
+                    *q = 5;
+                    break;
+				default:
+					*q = 1;
+					break;
+			}
+			fprintf(fa, "%c : estado %d\n", *c, *q);
+			printf("%c : estado %d\n", *c, *q);
+			break;
+		case 'a':
+		case 'A':
+			switch(*q)
+			{
+			    case 3:
+				case 5:
+					*q = 6;
+					break;
+				default:
+					*q = 1;
+					break;
+			}
+			fprintf(fa, "%c : estado %d\n", *c, *q);
+			printf("%c : estado %d\n", *c, *q);
+			break;
+		case 'y':
+		case 'Y':
+			switch(*q)
+			{
+				case 6:
+					*q = 7;
+					break;
+				default:
+					*q = 1;
+					break;
+			}
+			fprintf(fa, "%c : estado %d\n", *c, *q);
+			printf("%c : estado %d\n", *c, *q);
+			break;
+        default:
+            *q = 1;
+            fprintf(fa, "%c : estado %d\n", *c, *q);
+            printf("%c : estado %d\n", *c, *q);
+            break;
+
+	}
+}

@@ -1,0 +1,11 @@
+Resultado del analisis del archivo an_ajedrez.txt: 
+r : combinacion cuadros {2, 4}
+r : combinacion cuadros {2, 4, 6, 8}
+b : combinacion cuadros {1, 3, 5, 7, 9}
+b : combinacion cuadros {1, 3, 5, 7, 9}
+Los movimientos rrbb llegan al extremo inferior del tablero
+b : combinacion cuadros {5}
+Los movimientos b no llegan al extremo inferior del tablero
+r : combinacion cuadros {2, 4}
+r : combinacion cuadros {2, 4, 6, 8}
+Los movimientos rr no llegan al extremo inferior del tablero

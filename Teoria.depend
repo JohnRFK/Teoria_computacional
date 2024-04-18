@@ -1,0 +1,477 @@
+# depslib dependency file v1.0
+1423358999 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Programa1.h"
+	"Programa2.h"
+	"Programa3.h"
+	"Programa4.h"
+	"Programa5.h"
+	"Programa6.h"
+	"Programa7.h"
+	"Programa8.h"
+	"Programa9.h"
+	"Programa10.h"
+	"Programa12.h"
+	"Programa13.h"
+	"Programa14.h"
+
+1423267296 4.h"
+
+1423385935 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa1.h
+
+1423386864 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa2.h
+
+1413517553 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa3.h
+
+1423460798 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa6.h
+
+1423343078 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\pila.h
+	<stdio.h>
+	<stdlib.h>
+
+1423343078 
+
+1413782574 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa4.h
+
+1414106980 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa4.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Programa4.h"
+	"archivos.h"
+
+1423373731 h"
+
+1423386800 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<time.h>
+	"Programa1.h"
+
+1423286511 .h"
+
+1423386879 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<time.h>
+	"Programa2.h"
+
+1423387478 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"Programa3.h"
+
+1423371629 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\archivos.h
+
+1423461007 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa6.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pila.h"
+	"Programa6.h"
+
+1423390425 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"archivos.h"
+
+1414093134 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa5.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Programa5.h"
+	"archivos.h"
+
+1413783761 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa5.h
+
+1423454221 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa7.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	"Programa7.h"
+	"archivos.h"
+
+1413865796 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa7.h
+
+1423455628 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa10.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Programa10.h"
+
+1414270925 0.h"
+
+1414217438 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa10.h
+
+1423390520 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa12.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Programa12.h"
+
+1423267983 2.h"
+
+1422147662 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa12.h
+
+1423454224 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa8.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Programa8.h"
+	"archivos.h"
+
+1423372456 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa8.h
+
+1423390810 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa13.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"programa13.h"
+
+1423364655 3.h"
+
+1423182350 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa13.h
+
+1423391001 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa14.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Programa14.h"
+
+1423263879 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa14.h
+
+1423390425 source:c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa9.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Programa9.h"
+
+1423282810 c:\users\juan\dropbox\escom\tc2\ejemplos\teoria\lib\programa9.h
+
+1423379850 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<time.h>
+	"Programa1.h"
+
+1413520872 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa1.h
+
+1414274525 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa10.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Programa10.h"
+
+1414221038 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa10.h
+
+1423267983 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa12.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Programa12.h"
+
+1422147662 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa12.h
+
+1423364655 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa13.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"programa13.h"
+
+1423267296 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa14.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Programa14.h"
+
+1423263879 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa14.h
+
+1423376525 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	"Programa2.h"
+
+1413521331 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa2.h
+
+1423293990 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"Programa3.h"
+
+1413521153 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa3.h
+
+1414110580 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa4.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Programa4.h"
+	"archivos.h"
+
+1413786174 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa4.h
+
+1423371629 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/archivos.h
+
+1414096734 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa5.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Programa5.h"
+	"archivos.h"
+
+1413787361 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa5.h
+
+1423352200 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa6.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pila.h"
+	"Programa6.h"
+
+1423343078 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/pila.h
+	<stdio.h>
+	<stdlib.h>
+
+1423352200 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa6.h
+
+1423341213 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa7.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	"Programa7.h"
+	"archivos.h"
+
+1413869396 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa7.h
+
+1423373731 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa8.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Programa8.h"
+	"archivos.h"
+
+1423372456 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa8.h
+
+1423286511 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa9.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Programa9.h"
+
+1423282810 /home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/Programa9.h
+
+1423372392 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/lib/archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"archivos.h"
+
+1423358999 source:/home/juan/Dropbox/ESCOM/TC2/Ejemplos/Teoria/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Programa1.h"
+	"Programa2.h"
+	"Programa3.h"
+	"Programa4.h"
+	"Programa5.h"
+	"Programa6.h"
+	"Programa7.h"
+	"Programa8.h"
+	"Programa9.h"
+	"Programa10.h"
+	"Programa12.h"
+	"Programa13.h"
+	"Programa14.h"
+
+1423386800 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<time.h>
+	"Programa1.h"
+
+1423385935 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa1.h
+
+1423455628 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa10.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Programa10.h"
+
+1414217438 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa10.h
+
+1423390520 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa12.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Programa12.h"
+
+1422147662 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa12.h
+
+1423390810 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa13.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"programa13.h"
+
+1423182350 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa13.h
+
+1423391001 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa14.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Programa14.h"
+
+1423263879 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa14.h
+
+1423386879 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<time.h>
+	"Programa2.h"
+
+1423386864 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa2.h
+
+1423387478 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"Programa3.h"
+
+1413517553 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa3.h
+
+1414093134 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa5.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Programa5.h"
+	"archivos.h"
+
+1413783761 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa5.h
+
+1414090490 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\archivos.h
+
+1423461036 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa6.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pila.h"
+	"Programa6.h"
+
+1423343078 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\pila.h
+	<stdio.h>
+	<stdlib.h>
+
+1423460798 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa6.h
+
+1423454224 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa8.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Programa8.h"
+	"archivos.h"
+
+1423372456 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa8.h
+
+1423286511 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa9.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Programa9.h"
+
+1423282810 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa9.h
+
+1423372392 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"archivos.h"
+
+1423358999 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Programa1.h"
+	"Programa2.h"
+	"Programa3.h"
+	"Programa4.h"
+	"Programa5.h"
+	"Programa6.h"
+	"Programa7.h"
+	"Programa8.h"
+	"Programa9.h"
+	"Programa10.h"
+	"Programa12.h"
+	"Programa13.h"
+	"Programa14.h"
+
+1414106980 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa4.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Programa4.h"
+	"archivos.h"
+
+1413782574 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa4.h
+
+1423454221 source:c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa7.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	"Programa7.h"
+	"archivos.h"
+
+1413865796 c:\users\juan\dropbox\escom\tc2\teoriaproy\teoria\lib\programa7.h
+
